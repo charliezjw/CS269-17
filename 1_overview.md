@@ -6,6 +6,8 @@ name: 1
 ---
 
 ## Announcements: 
+  * 10.10.2017: Please sign up your presentaiton group [here](https://docs.google.com/spreadsheets/d/1w-8ocLW8GiU9rfcusHGd3aKCDU-4LPBU-RcG8btGT8w/edit?usp=sharing)
+  * 10.06.2017: Please enroll in [Piazza](http://piazza.com/ucla/fall2017/cs269).
   * 09.23.2017: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
   
   
@@ -19,7 +21,7 @@ name: 1
   * Office hour:  4:00pm -- 5:00pm, Tue
   * Office location: BH 3732J  
 * TA: [Md Rizwan Parvez](https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
-  * Office hour: 12:00pm -- 2:00pm, Wed
+  * Office hour: 11:00am -- 1:00pm, Monday
   * Office location: BH 2432
   
 #### Course Description
